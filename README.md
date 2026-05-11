@@ -9,8 +9,7 @@ git config --global user.name "TuNombreUsuario"
 git config --global user.email "tu-nuevo-email@ejemplo.com"
 
 # 3. Instalación de Cursor IDE
-# Si estás en Windows, Claude te sugeriría descargar el .exe
-brew install --cask cursor
+# Si estás en Windows, Claude te sugeriría descargar el .exe desde https://cursor.com/
 
 # 4. Inicialización del Repositorio
 mkdir mi-nuevo-proyecto
